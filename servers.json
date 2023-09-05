@@ -1,0 +1,14 @@
+[
+    {
+       "ip": "01",
+       "name": "de1.api.radio-browser.info"
+    },
+    {
+       "ip": "02",
+       "name": "at1.api.radio-browser.info"
+    },
+    {
+       "ip": "03",
+       "name": "nl1.api.radio-browser.info"
+    }
+ ]
