@@ -1,13 +1,13 @@
 [
     {
-        "name":"Radio orientale إذاعــة الشرقي",
+        "name":"Radio dzair  إذاعــة دزاير",
         "tags":"deep,dub,electronica,idm",
-        "url":"https://radiodzair.net:8070/orientale?shoutcast",
-        "favicon":"https://radio-dzair.com/wp-content/uploads/2023/01/orientale.png",
-        "country":"Turkey",
-        "countrycode":"tr",
+        "url":"https://radiodzair.net:8000/dzair?shoutcast",
+        "favicon":"https://raw.githubusercontent.com/cabdellah/CA-ra/main/DZ/radio/dzai.png",
+        "country":"Algeria",
+        "countrycode":"dz",
         "language":"arabic",
-        "languagecodes":"en,tr,ar"
+        "languagecodes":"ar"
     },
     {
         "name":"Radio orientale إذاعــة الشرقي",
